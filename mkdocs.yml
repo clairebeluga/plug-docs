@@ -23,7 +23,7 @@ markdown_extensions:
   - toc:
       permalink: true
 nav:
-  - Welcome to Plug 👋: index.md
+  - Welcome to Plug 🥶: index.md
   - <b>Developer Guides</b> 🧰:
     - Getting Started: getting-started/extension-components.md
     - Connect apps to Plug: getting-started/connect-to-plug.md
